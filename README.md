@@ -1,4 +1,7 @@
 # Inventory-Management-System
+
+--Created using Python & JSON
+
 •Quickly add Brands, Categories & Products to stock.
 
 •Manage Orders on the go.
